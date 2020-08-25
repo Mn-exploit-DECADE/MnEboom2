@@ -15,7 +15,7 @@ MnEboom is the best mail boombing tools
 INSTALLATION 
 
 git clone https://github.com/Mn-exploit-DECADE/MnEboom2.git
-ls
-cd MnEboom2
-ls
-python3 MnEboom2.py
+                                                                                      ls 
+                                                                                            cd MnEboom2
+                                                                                                         ls
+                                                                                                            python3 MnEboom2.py
