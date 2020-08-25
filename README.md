@@ -6,3 +6,16 @@ MnEboom is the best mail boombing tools
 
  Learning resources links
 *If you are using a GMAIL or YAHOO account, you will need to change the settings to "Less Secure Apps" to allow python to send email using there servers, also may need to do that for OUTLOOK, or anyother EMAIL SERVER you use.... You may have to check.*
+
+
+
+
+
+
+INSTALLATION 
+
+git clone https://github.com/Mn-exploit-DECADE/MnEboom2.git
+ls
+cd MnEboom2
+ls
+python3 MnEboom2.py
